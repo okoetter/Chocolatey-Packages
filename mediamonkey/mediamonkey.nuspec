@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>mediamonkey</id>
+    <title>Mediamonkey</title>
+    <version>4.1.3</version>
+    <authors>Ventis Media</authors>
+    <owners>Oliver Kötter</owners>
+    <summary>Mediamonkey</summary>
+    <description>MediaMonkey: The Music Organizer for Serious Collectors</description>
+    <projectUrl>http://www.mediamonkey.com/</projectUrl>
+    <tags>media, audio, video, grabber, library, burn, podcast, convert, party, visualize, organize, rename, tag, manage</tags>
+    <copyright>© Copyright 2014 Ventis Media</copyright>
+    <licenseUrl>http://www.mediamonkey.com/support/index.php?_m=knowledgebase&amp;_a=view&amp;parentcategoryid=4&amp;nav=0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.mediamonkey.com/_inc/img/monkey-logo.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
