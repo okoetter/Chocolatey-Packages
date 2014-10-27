@@ -11,7 +11,7 @@
     <projectUrl>http://www.mediamonkey.com/</projectUrl>
     <tags>media, audio, video, grabber, library, burn, podcast, convert, party, visualize, organize, rename, tag, manage</tags>
     <copyright>© Copyright 2014 Ventis Media</copyright>
-    <licenseUrl>http://www.mediamonkey.com/support/index.php?_m=knowledgebase&amp;_a=view&amp;parentcategoryid=4&amp;nav=0</licenseUrl>
+    <licenseUrl>http://www.mediamonkey.com/sw/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://www.mediamonkey.com/_inc/img/monkey-logo.png</iconUrl>
     <!--<dependencies>
