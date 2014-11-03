@@ -3,7 +3,7 @@
   <metadata>
     <id>altap-salamander-beta</id>
     <title>Altap Salamander</title>
-    <version>3.0.3</version>
+    <version>3.0.4</version>
     <authors>ALTAP spol. s r.o.</authors>
     <owners>Oliver Kötter</owners>
     <summary>Altap Salamander bleeding edge version, including alphas and betas</summary>
@@ -11,7 +11,7 @@
     <projectUrl>http://www.altap.cz/</projectUrl>
     <!-- <tags>AltapSalamander admin</tags> -->
     <copyright>Copyright © 1999-2014 ALTAP. All rights reserved.</copyright>
-    <licenseUrl>http://www.altap.cz/purchase/pricing/</licenseUrl>
+    <licenseUrl>http://www.altap.cz/salamander/eula/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://www.altap.cz/images/salamander_logo.png</iconUrl>
     <!--<dependencies>
