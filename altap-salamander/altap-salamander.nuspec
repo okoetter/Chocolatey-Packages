@@ -3,14 +3,14 @@
   <metadata>
     <id>altap-salamander</id>
     <title>Altap Salamander</title>
-    <version>3.0.4</version>
+    <version>3.0.5</version>
     <authors>ALTAP spol. s r.o.</authors>
     <owners>Oliver Kötter</owners>
     <summary>Altap Salamander</summary>
     <description>Altap Salamander is a fast and reliable two-panel file manager for Windows. It has an intuitive interface, offers viewers for all popular file formats as well as support for common archives, and has built-in FTP and SFTP clients. Altap Salamander is a way to work with files more efficiently.</description>
     <projectUrl>http://www.altap.cz/</projectUrl>
     <!-- <tags>AltapSalamander admin</tags> -->
-    <copyright>Copyright © 1999-2014 ALTAP. All rights reserved.</copyright>
+    <copyright>Copyright © 1999-2015 ALTAP. All rights reserved.</copyright>
     <licenseUrl>http://www.altap.cz/salamander/eula/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://www.altap.cz/images/salamander_logo.png</iconUrl>
