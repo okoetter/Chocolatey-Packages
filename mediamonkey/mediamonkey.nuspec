@@ -3,14 +3,14 @@
   <metadata>
     <id>mediamonkey</id>
     <title>Mediamonkey</title>
-    <version>4.1.5</version>
+    <version>4.1.6</version>
     <authors>Ventis Media</authors>
     <owners>Oliver Kötter</owners>
     <summary>Mediamonkey</summary>
     <description>MediaMonkey: The Music Organizer for Serious Collectors</description>
     <projectUrl>http://www.mediamonkey.com/</projectUrl>
     <tags>media, audio, video, grabber, library, burn, podcast, convert, party, visualize, organize, rename, tag, manage</tags>
-    <copyright>© Copyright 2014 Ventis Media</copyright>
+    <copyright>© Copyright 2015 Ventis Media</copyright>
     <licenseUrl>http://www.mediamonkey.com/sw/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://www.mediamonkey.com/_inc/img/monkey-logo.png</iconUrl>
