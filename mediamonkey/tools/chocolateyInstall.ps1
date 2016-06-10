@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop';
 $packageName= 'mediamonkey'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://e8d327b5fb.site.internapcdn.net/sw/MediaMonkey_4.1.11.1783.exe'
+$url        = 'http://e8d327b5fb.site.internapcdn.net/sw/MediaMonkey_4.1.12.1798.exe'
 $url64      = ''
 $packageArgs = @{
   packageName   = $packageName
