@@ -12,10 +12,10 @@ $packageArgs = @{
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
   validExitCodes= @(0)
   softwareName  = 'mediamonkey*'
-  checksum      = '4FE7A42420E849176497B1E3C289733B'
-  checksumType  = 'md5'
+  checksum      = 'EA87103F3229BA30D9753A72662DE2C88A5F5460238A75D87F0755CCC337561A9CB51766C2C0ADB7690007B2FA933D9034EFF315CBBA0A219629D857A5C0165E'
+  checksumType  = 'sha512'
   checksum64    = ''
-  checksumType64= 'md5'
+  checksumType64= 'sha512'
 }
 
 Install-ChocolateyPackage @packageArgs
