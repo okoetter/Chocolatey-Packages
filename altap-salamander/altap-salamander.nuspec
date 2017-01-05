@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>altap-salamander</id>
     <title>Altap Salamander</title>
-    <version>3.0.7</version>
+    <version>3.0.8</version>
     <authors>ALTAP spol. s r.o.</authors>
     <owners>Oliver Kötter</owners>
     <summary>Altap Salamander</summary>
@@ -22,7 +22,7 @@
     <mailingListUrl></mailingListUrl>
     <bugTrackerUrl></bugTrackerUrl>-->
     <tags>altap-salamander admin</tags>
-    <copyright>Copyright © 1999-2016 ALTAP. All rights reserved.</copyright>
+    <copyright>Copyright © 1999-2017 ALTAP. All rights reserved.</copyright>
     <licenseUrl>http://www.altap.cz/salamander/eula/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://pics.computerbase.de/1/4/0/8/8/logo-256.png</iconUrl>
