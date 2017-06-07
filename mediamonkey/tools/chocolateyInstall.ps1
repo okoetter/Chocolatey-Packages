@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop';
 $packageName= 'mediamonkey'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://e8d327b5fb.site.internapcdn.net/sw/MediaMonkey_4.1.15.1830.exe'
+$url        = 'http://e8d327b5fb.site.internapcdn.net/sw/MediaMonkey_4.1.16.1836.exe'
 $url64      = ''
 $packageArgs = @{
   packageName   = $packageName
@@ -12,7 +12,7 @@ $packageArgs = @{
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
   validExitCodes= @(0)
   softwareName  = 'mediamonkey*'
-  checksum      = '744eb5055277d7eed18324dbb44e0e7e0208c03b260cc5c26a741142ad1e4535ca5fcb613451f7c40a6cbdd1de4ca951fb5790eedc1b5d79e6d6d975259bd5b0'
+  checksum      = 'bf6f41b21e9439c135f497c5e23d1e8c5ef37c3186b78ae2be8e0e5a3b3e0f9611bf05ba7b5e70f51b78051ca5f2087df02c364f78219d5c8de9929875f3cb87'
   checksumType  = 'sha512'
   checksum64    = ''
   checksumType64= 'sha512'
